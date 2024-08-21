@@ -12,7 +12,7 @@ WHERE subject.subject\_name = 'Math'
 
 ORDER BY students.student\_id;
 
-![](Aspose.Words.dabd4115-b2ac-42ec-a4fa-da9290325654.001.png)
+![Aspose Words dabd4115-b2ac-42ec-a4fa-da9290325654 001](https://github.com/user-attachments/assets/95ce3a00-b50f-4881-b587-3651c0e4f762)
 
 **-- WITH USE OF INNER JOIN PRINT THE ONLY ENGLISH SUBJECT STUDENT NAME AND MARKS   --**
 
